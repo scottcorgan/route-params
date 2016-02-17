@@ -25,5 +25,13 @@
     "path-to-regexp": "1.2.1",
     "pathname-match": "1.1.3",
     "zip-object": "0.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottcorgan/route-params.git"
+  },
+  "bugs": {
+    "url": "https://github.com/scottcorgan/route-params/issues"
+  },
+  "homepage": "https://github.com/scottcorgan/route-params#readme"
 }
